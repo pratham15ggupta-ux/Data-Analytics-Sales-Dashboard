@@ -1,7 +1,7 @@
 # Sales Data Analytics Dashboard (SQL + Power BI)
 
 ## Project Overview
-This project analyzes motorcycle and accessories sales data using SQL (SSMS) and Power BI.  
+This project analyzes a publicly available retail sales dataset representing a bike and accessories company, used to simulate real-world business scenarios using SQL (SSMS) and Power BI. 
 The objective is to extract meaningful business insights related to customers, products, and sales performance, and present them through an interactive dashboard.
 
 The project follows an end-to-end analytics approach:
